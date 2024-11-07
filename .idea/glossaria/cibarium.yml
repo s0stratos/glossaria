@@ -1,0 +1,486 @@
+g:
+  - la: auena
+    el:
+    bot: Avena sp.
+    fr: avoine
+    en: oats
+    lat: avēna, ae, haec
+    ell:
+  - la: hordeum
+    el: κριθή
+    bot: Hordeum vulgare ssp. vulgare
+    fr: orge
+    en: barley
+    lat: hordĕum (ord-) (ford-), ī, hoc
+    ell: κριθή, ῆς (ἡ) [ῑ]
+    other:
+      - la: polenta
+        fr: orge perlé
+        en: pearled barley
+        lat: pŏlenta, ae, haec
+      - la: cremor
+        el: χυλός
+        fr: soupe d'orge
+        en: thick barley decoction
+        lat: crĕmŏr, ōris, hic
+        ell: χυλός, οῦ (ὁ) [ῡ]
+      - la: sorbitio
+        fr: boisson d'orge (décoction filtrée et diluée)
+        en: filtered and diluted barley decoction
+        lat: sorbĭtĭō, ōnis, haec
+      - la: hordeacia farina
+        fr: farine d'orge
+        en: barley meal
+        lat: hordĕācĕa (ia) fărīna, ae, haec
+      - la: ptisana
+        el: πτισάνη
+        fr: orge mondé
+        lat: ptĭsăna,ae, haec
+        ell: πτισάνη, ης (ἡ) [ῐᾰ]
+      - la: ptisana
+        el: πτισάνη
+        fr: tisane d'orge
+        en: barley decoction
+        lat: ptĭsăna,ae, haec
+        ell: πτισάνη, ης (ἡ) [ῐᾰ]
+      - la: fermentum
+        fr:
+          - orge fermenté
+          - malt d'orge fermenté
+      - lat: fermentum, ī, hoc
+  - la: hordeum glabrum
+    el: κριθή
+    bot: Hordeum vulgare var. nudum
+    fr: orge nu
+    en: naked barley
+    lat: hordĕum (ord-) (ford-) glăbrum, ī, hoc
+    ell: κριθή, ῆς (ἡ) [ῑ]
+  - la: milium
+    el:
+      - μελίνη
+      - ἔλυμος
+    bot: Panicum miliaceum
+    fr:
+      - millet
+      - mil
+    en: common millet
+    lat: mĭlĭum, ĭī, hoc
+    ell:
+      - μελίνη, ης (ἡ) [ῐ]
+      - ἔλυμος, ου (ὁ) [ῠ]
+  - la:
+      - secale
+      - asia
+    el:
+    bot: Secale cereale
+    fr: seigle
+    en: rye
+    lat:
+      - sĕcāle, is, hoc
+      - ăsĭa, ae, haec
+    ell:
+  - la: panicum
+    el: κέγχρος
+    bot: Setaria italica
+    fr:
+      - petit mil
+      - millet d'Italie
+      - sétaire d'Italie
+      - millet des oiseaux
+    en:
+      - foxtail millet
+      - Italian millet
+    lat: pānĭcum, ī, hoc
+    ell: κέγχρος, ου (ὁ)
+  - lat: siligo
+    el:
+    bot: Triticum aestivum
+    fr:
+      - blé tendre
+      - froment
+    en:
+      - common wheat
+      - bread wheat
+    lat: sĭlīgō, ĭnis, haec
+    other:
+      - la: flos
+        fr: farine de première qualité
+        en: first quality flour
+      - la: siligo
+        fr: farine de qualité supérieure
+        en: superior quality flour
+      - la: cibarium
+        fr: farine
+        en: flour
+      - la: furfur
+        fr: son
+        en: bran
+  - la:
+      - triticum
+      - triticum robus [Columella]
+      - triticum trimestre [Columella]
+    el:
+    bot: Triticum turgidum L. subsp. durum (Desf.)
+    fr: blé dur
+    en: durum wheat
+    lat: trītĭcum, ī, hoc
+    ell:
+    other:
+      - la: pollen
+        fr: semoule de première qualité
+        en: highest quality semolina
+      - la: similago
+        fr: semoule de qualité supérieur
+        en: good quality semolina
+      - la: secundarium
+        fr: semoule
+        en: semolina
+      - la: furfur
+        fr: son
+        en: bran
+      - la: laganum
+        fr: lasagne
+        en: pasta sheet, lasagna
+      - la: lagana
+        fr: lasagnes
+        en: lasagna dish
+      - la: itrion, itrium
+    k:
+  - la: spelta
+    el:
+    bot: Triticum spelta
+    fr: épeautre
+    en: spelt
+    lat: spelta, ae, haec
+    ell:
+  - la:
+      - far
+      - adoreum
+      - alicastrum
+    el: ὄλυρα
+    bot: Triticum dicoccum
+    fr:
+      - amidonnier
+      - moyen épeautre
+    en: emmer (wheat)
+    lat:
+      - far, farris, hoc
+      - ălĭcastrum, ī, hoc
+    ell: ὄλυρα, ας (ἡ) [ῡ]
+    other:
+      - la: puls
+      - la: confarreatio
+    k:
+  - la:
+      - arinca
+      - tiphe
+    el:
+    bot: Triticum monococcum
+    fr:
+      - petit épeautre
+      - engrain
+    en:
+      - einkorn
+      - littlespelt
+    lat:
+      - arinca, ae, haec
+      - tiphē, ēs, haec
+    ell:
+  - lat:
+    det: 
+    bot: Cicer arietinum
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Lathyrus sativus/cicera
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Lens culinaris
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Pisum sativum
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Vicia ervilia
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Vicia faba
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Vicia sativa
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Cucumis melo
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Ficus carica
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Juglans regia
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Malus domestica
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Morus nigra
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Olea europaea
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus armeniaca
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus avium
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Pruus cerasus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus avium/cerasus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus domestica
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus dulcis
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus persica
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Punica granatum
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Vitis vinifera
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Brassica nigra
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Brassica oleraceae
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Brassica sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Camelina sativa
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Linum usitatissimum/Linum sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Papaver somniferum
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Stipa tenacissima
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Apium graveolens
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Apium sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Coriandrum sativum
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Daucus carota
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Foeniculum vulgare
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Lavandula sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Mentha sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Nigella sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Rosmarinus officinalis
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Verbena officinalis
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Arbutus unedo
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Castanea sativa
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Celtis australis
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Corema album
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Cornus mas
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Cornus sanguinea
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Corylus
+      :
+    en:
+  - lat:
+    det: 
+    bot: Fagus sylvatica
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Fragaria vesca
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Myrtus communis
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Pinus pinea
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Pinus sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Pistacia lentiscus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus spinosa
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Prunus sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Quercus sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Rubus fruticosus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Rubus idaeus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Rubus sp.
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Sambucus ebulus
+    fr:
+    en:
+  - lat:
+    det: 
+    bot: Sambucus nigra
