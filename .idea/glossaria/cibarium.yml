@@ -484,3 +484,37 @@ g:
   - lat:
     det: 
     bot: Sambucus nigra
+  - la: alium
+    el: σκόροδον
+    lat: hoc ālium, ālī ; hoc allium, allī uel alliī ; hoc āleum
+    ell: το σκόροδον, τοῦ σκορόδου ; το σκόρδον, τοῦ  σκόρδου
+    fr: ail
+    en: garlic
+    bot: Allium sativum (L., 1753)
+  - la: amarantus
+    el: βλίτον
+    lat: hic amarantus, amarantī
+    fr: amarante sauvage ; amarante blette (attention pas la blette issue de Beta vulgaris)
+    ell: το βλίτον, τοῦ βλίτου
+    bot: Amaranthus blitum (L., 1753)
+  - la: ambubaia uel ambubeia
+    lat: haec ambūbaia, ambūbaiae uel haec ambūbeia, ambūbeiae
+    fr: chicorée sauvage
+    bot:
+  - la: anēsum uel anīsum
+    el: άνισον
+    lat: hoc anēsum, anēsi ; hoc anīsum, anīsī
+    ell: το άνισον, τοῦ ανίσου [ᾰνῑσον]
+    bot: pimpinella anisum
+  - la: apium
+    el: optiocriXivov or ctIXlvov
+    en: parsley and celery
+    bot: Petrosolinum sativum and Apium graveolens
+  - la: anethum
+    el: avrjOov or awrjTos
+    bot: Anethum graveolens
+    en: dill
+  - la: asparagus
+    el: dcr<£dpayog, asparagus
+    bot: Asparagus acutifolius and other similar species or species with similar uses
+    en: asparagus or similar young fleshy shoots
